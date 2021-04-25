@@ -7,7 +7,7 @@ import java.sql.*;
 public class Database {
    // JDBC driver name and database URL
    static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
-   static final String DB_URL = "jdbc:derby://localhost:1527/Vezarat_DB"; //;shutdown=true
+   static final String DB_URL = "jdbc:derby://localhost:1527/RT_CRM_DB"; //;shutdown=true
 //<C://Users/pc10/Documents/NetBeansProjects/Management/dist/>
    //  Database credentials
    static final String USER = "paydaran";
